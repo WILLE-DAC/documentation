@@ -31,7 +31,7 @@ WILLE is a decentralized autonomous organization (DAO) committed to developing a
 Name, acronym and symbol
 </p>
 
-This DAO is named Network Emergency Network Vollunteers, or WILLE short, inspired by a popular anime series. Colors are black and red and as a symbol we have a lock and a key in representation of our strong values regarding cybersecurity.
+This DAO is named WILLE inspired by a popular anime series and which stands in German for volition or 'the' will. Colors are white and blue and as a symbol we have a lock and a key in representation of our strong values regarding cybersecurity.
 
 <p align="center">
 <b>( article 3 )</b><br>
@@ -84,23 +84,23 @@ III. Moderation is user-centric meaning no special roles are assigned to any use
 Registration
 </p>
 
-The enrolment in the DAO is an individual choice and requires the payment of an annual symbolic fee in cryptocurrency, a passphrase given by one of WILLE's ambassadors and other necessary documentation following the registration procedure on the on-line platform which may vary by jurisdiction. Raw biometric data is never to be kept in any database.
+The enrolment in the DAO is an individual choice and requires the investment of a minimum sum in cryptocurrency and a passphrase given by one of WILLE's members. Raw biometric data is never to be kept in any database.
 
 I. Adherence to or withdrawal from the DAO is made exclusively through the on-line platform. Registries are published and managed in a decentralized database (blockchain).
 
 <p align="center">
 <b>( article 5-b )</b><br>
-Bond to the country of origin
+Anonymity
 </p>
 
-Membership is associated with nationality.
+Membership is anonymous.
 
 <p align="center">
 <b>( article 6 )</b><br>
 Incompatibility regime
 </p>
 
-DAO members may hold no more than one position within the DAO official structures unless otherwise stated.
+DAO members may hold no more than one position within the DAO official structures. That is to say that in the event of collusion members have to opt between the role of a stakeholder or an angel.
 
 <p align="center">
 <b>( article 7 )</b><br>
@@ -124,11 +124,11 @@ V. It is duty to perform with zeal, assiduity and loyalty to the other members t
 Works
 </p>
 
-DAO members are invited to contribute to the elaboration, execution and supervision of a myriad of projects related to the mission of WILLE. To be eligible, members must inform the DAO of the availability and area of expertise through the on-line platform. Most of the work is carried by the Ambassadors, the Captains and the Yellow, Blue and Red teams.
+DAO members are invited to contribute to the elaboration, execution and supervision of a myriad of projects related to the mission of WILLE. To be eligible, members must inform the DAO of the availability and area of expertise through the on-line platform.
 
 I. By signing up as volunteers and depending on the academic background, members are able to execute tasks and perform jobs in representation of WILLE which can be recompensated monetarily.
 
-II. The adjudication, management and supervision of the works are of the responsibility of the captains in coordination with the various ethical committees (angels).
+II. The adjudication, management and supervision of the works are of the responsibility of various ethical committees, or angels.
 
 III. The acceptance of a job position within the DAO requires the signing of a contract, either digitaly or in paper, between WILLE and the contributor. Because there is no legal standards around this practice, we recommend the adoption of an equivalent of the DAO Contributor Agreement<sup>[3](https://github.com/LarryFlorio/LegalForms/blob/main/DAO-Contributor-Agmt/DAO%20Contributor%20Agreement.md)</sup> published by Larry Florio that may seem appropriate.
 
@@ -156,14 +156,16 @@ III. Publishing pornography, inciting to any kind of physical violence or any fo
 
 IV. It's considered sufficient reason to ban a member from the DAO if unjustified false information is uploaded to the on-line platform.
 
-V. It’s the responsibility of the ethical committees to develop mechanisms that contribute to the evaluation of the situations described above and to publish alerts on the on-line platform whenever it may be considered appropriate to do so.
+V. It’s the responsibility of the ethical committees (angels) to develop mechanisms that contribute to the evaluation of the situations described above and to publish alerts on the on-line platform whenever it may be considered appropriate to do so.
+
+VI. In case of expulsion from WILLE a minimum value equivalent to the initial cryptocurrency invested by the expeled member is returned to the same.
 
 <p align="center">
 <b>( article 11 )</b><br>
 Bodies
 </p>
 
-There are 7 different bodies that contribute to the normal functioning of the WILLE DAO: ambassadors, captains, yellow, blue and red teams, the angels and SEELE.
+There are 8 different bodies that contribute to the normal functioning of the WILLE DAO: stakeholders, ambassadors, captains, yellow, blue and red teams, the angels and KREDIT.
 
 <p align="center">
 <b>( article 12 )</b><br>
@@ -181,7 +183,7 @@ II. The choice for the location of these spaces must be made through democratic 
 Contacts
 </p>
 
-Management of the DAO’s official e-mails is done by the SEELE. Management of the mails is done by the entrusted members appointed in point I of the previous article.
+Management of the DAO’s official e-mails is done by a special group from amongst the angels. Management of the mails is done by the entrusted members appointed in point I of the previous article.
 
 I. The official URL for the website of the DAO is URL. The IPFS hash entrypoint to the website is HASH.
 
@@ -194,7 +196,7 @@ Website
 
 The official website of the WILLE DAO serves the purpose of presenting WILLE's work to the public and of recruiting new members.
 
-I. Maintenance and updates to the website are the responsibility of SEELE.
+I. Maintenance and updates to the website are the responsibility of a special ethical committee formed from members amongst the angels.
 
 II. The website should at least link to DAO's repositories, contacts and dapp download.
 
@@ -396,12 +398,12 @@ II. Are encouraged to meet regularly and to publish those meetings in a specific
 
 <p align="center">
 <b>( article 7 )</b><br>
-SEELE
+KREDIT
 </p>
 
-Is the founding group of WILLE and a special organ responsible for the guidance of the DAO towards success of its  main mission. SEELE also curates proposals:
+Is the co-founding group of WILLE and a special organ responsible for the guidance of the DAO towards success of its  main mission. KREDIT also curates proposals:
 
-I. If voter turnout is consistently low in the DAO, then proposals made by the SEELE are to be approved by adaptative quorom biasing with negative turnout bias. Otherwise by simple majority.
+I. If voter turnout is consistently low in the DAO, then proposals made by the KREDIT are to be approved by adaptative quorom biasing with negative turnout bias. Otherwise by simple majority.
 
 <p align="center">
 <b>( article 7-b )</b><br>
@@ -415,11 +417,11 @@ Videoconferences at least once monthly. These videoconferences are to be made pu
 Composition
 </p>
 
-I. Initially, SEELE's composed of the founding members of the DAO.
+I. Initially, KREDIT's composed of the founding members of the DAO.
 
-II. SEELE members are mandated to one year terms.
+II. KREDIT members are mandated to one year terms.
 
-III. Plurinomial elections are held annually for the composition of SEELE.
+III. Plurinomial elections are held annually for the composition of KREDIT.
 
 <p align="center">
 <b>( article 7-d )</b><br>
@@ -468,7 +470,7 @@ II. The abstract should also briefly explain the subject to which it refers, and
 
 III. The body, without limitations, must contain the proposal itself as detailed as possible with the appropriate legal terms preferably. Attached to it may be added documents, images, PDF files, etc., other file formats that convey fundamental information to the understanding and elaboration of the proposal at hand.
 
-IV. If vote turnout is consistently low, proposals by members of WILLE with exception to SEELE should be approved by adaptive quorom biasing with positive turnout bias. Otherwise always by simple majority.
+IV. If vote turnout is consistently low, proposals by members of WILLE with exception to KREDIT should be approved by adaptive quorom biasing with positive turnout bias. Otherwise always by simple majority.
 
 <p align="center">
 <b>( article 3-b )</b><br>
@@ -508,9 +510,9 @@ Evaluation period
 
 The proposal evaluation period is an evaluation period of 3 months during which the proposals are to be discussed amongst the DAO members and the various bodies before being officially accepted and implemented through smart-contracts.
 
-I. The SEELE may, by simple consensus, shorten the evaluation time for a given bill to a period no shorter than 1 month, if it is considered necessary to make urgent decisions. 
+I. The KREDIT may, by simple consensus, shorten the evaluation time for a given bill to a period no shorter than 1 month, if it is considered necessary to make urgent decisions. 
 
-II. Analogously to the previous point, the evaluation period of a proposal can be extended to a maximum of 1 year by the SEELE with simple majority consensus if it consideres necessary a more thorough study of the socio-economic impacts of the policy proposal or the capacity to execute accordingly is in question.
+II. Analogously to the previous point, the evaluation period of a proposal can be extended to a maximum of 1 year by the KREDIT with simple majority consensus if it consideres necessary a more thorough study of the socio-economic impacts of the policy proposal or the capacity to execute accordingly is in question.
 
 ## Smart-contracts
 
