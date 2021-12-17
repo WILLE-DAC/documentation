@@ -100,7 +100,7 @@ Membership is anonymous.
 Incompatibility regime
 </p>
 
-DAO members may hold no more than one position within the DAO official structures. That is to say that in the event of collusion members have to opt between the role of a stakeholder or an angel.
+DAO members may hold no more than one position within the DAO official structures. That is to say that in the event of collusion members have to opt between the role of a shareholder or an angel.
 
 <p align="center">
 <b>( article 7 )</b><br>
@@ -165,7 +165,7 @@ VI. In case of expulsion from WILLE a minimum value equivalent to the initial cr
 Bodies
 </p>
 
-There are 8 different bodies that contribute to the normal functioning of the WILLE DAO: stakeholders, ambassadors, captains, yellow, blue and red teams, the angels and KREDIT.
+There are 8 different bodies that contribute to the normal functioning of the WILLE DAO: shareholders, ambassadors, captains, yellow, blue and red teams, the angels and KREDIT.
 
 <p align="center">
 <b>( article 12 )</b><br>
@@ -244,6 +244,13 @@ IV. The secretary can use the on-line platform to probe the opinions of the part
 
 <p align="center">
 <b>( article 3 )</b><br>
+Shareholders
+</p>
+
+Shareholders are all those members of WILLE who invest a minium amount of cryptocurrency to the treasury.
+
+<p align="center">
+<b>( article 4 )</b><br>
 Ambassadors
 </p>
 
@@ -258,7 +265,7 @@ III. Are invited to videoconference with the captains in hopes of exchanging fin
 IV. Ambassadors are further divided by country of origin and regular videoconferencing and meetings between people that share the same geolocation is encouraged.
 
 <p align="center">
-<b>( article 3-b )</b><br>
+<b>( article 4-b )</b><br>
 Composition
 </p>
 
@@ -267,21 +274,21 @@ I. Any member of WILLE with at least a positive reputation may act as an ambassa
 II. To be fully considered an ambassador it is required that at least 5 members have been onboarded. This requirement entitles the ambassadors to participate in meetings with  the captains and to represent WILLE on official events.
 
 <p align="center">
-<b>( article 4 )</b><br>
+<b>( article 5 )</b><br>
 Captains
 </p>
 
 Are the backbone of the organization in the sense that only the most meritorious members are entitled this role which is essentially managerial.
 
 <p align="center">
-<b>( article 4-b )</b><br>
+<b>( article 5-b )</b><br>
 Convocation
 </p>
 
 Videoconferences at least once weekly with members of team under the supervision of the captain. This videoconference ought to be made available to the remaining members of the DAO.
 
 <p align="center">
-<b>( article 4-c )</b><br>
+<b>( article 5-c )</b><br>
 Composition
 </p>
 
@@ -292,7 +299,7 @@ II. Captainship is attributed and locked for minimum period of one year and is o
 III. Members of the teams managed by the captain may vote for the demission of the captain.
 
 <p align="center">
-<b>( article 4-d )</b><br>
+<b>( article 5-d )</b><br>
 Work order
 </p>
 
@@ -305,49 +312,49 @@ III. Assign a coordinator for every 10 members and from within the same group de
 IV. Files a report monthly evaluating the progression of the work.
 
 <p align="center">
-<b>( article 5 )</b><br>
+<b>( article 6 )</b><br>
 Yellow team
 </p>
 
 Following standard practices in cybersecurity, the yellow team is the organ assigned the mission of developing software solutions that WILLE may consider necessary.
 
 <p align="center">
-<b>( article 5-b )</b><br>
+<b>( article 6-b )</b><br>
 Work order
 </p>
 
 Develop software solutions that are approved by WILLE's governance.
 
 <p align="center">
-<b>( article 5-c )</b><br>
+<b>( article 6-c )</b><br>
 Blue team
 </p>
 
 As in standard practices in cybersecurity, the blue team is attributed the role of building defense mechanisms necessary to protect the software developed by the yellow team ensuring that it functions as intended and is robust against cyberattacks in all its different forms. Blue teams protect the software and its implementation on the ground.
 
 <p align="center">
-<b>( article 5-d )</b><br>
+<b>( article 6-d )</b><br>
 Work order
 </p>
 
 Develop defense strategies.
 
 <p align="center">
-<b>( article 5-e )</b><br>
+<b>( article 6-e )</b><br>
 Red team
 </p>
 
 In opposition to the practices and solutions put forward by blue teams. The red team is assigned the mission of developing, detecting and exposing vulnerabilites in the software developed by the yellow team. Red team attempts to break the code.
 
 <p align="center">
-<b>( article 5-f )</b><br>
+<b>( article 6-f )</b><br>
 Work order
 </p>
 
 Develop attack strategies.
 
 <p align="center">
-<b>( article 5-g )</b><br>
+<b>( article 6-g )</b><br>
 Composition of yellow, blue and red teams
 </p>
 
@@ -360,37 +367,37 @@ II. From amongst the members of each team, for every 10 members a coordinator is
 III. Captains that manage the teams may temporarily expel a particular member from the team. This can be done once at most every month.
 
 <p align="center">
-<b>( article 5-h )</b><br>
+<b>( article 6-h )</b><br>
 Convocation of yellow, blue and red teams
 </p>
 
 Videoconferences once weekly to coordinate the workings.
 
 <p align="center">
-<b>( article 6 )</b><br>
+<b>( article 7 )</b><br>
 Angels (ethical committees)
 </p>
 
 Are the organs responsible to evaluate the level of corruption within the DAO. Essentially it attempts to bring to light and resolve internal disputes especially those related to the allocation of resources from WILLE's treasury. The first committees are also co-founders to WILLE.
 
 <p align="center">
-<b>( article 6-b )</b><br>
+<b>( article 7-b )</b><br>
 Convocation
 </p>
 
 For every medium or highly impactful approved proposal, an ethical committee (group of angels) is to be established.
 
-I. Angels can veto proposals made by stakeholders by simple majority consensus.
+I. Angels can veto proposals made by shareholders by simple majority consensus.
 
 <p align="center">
-<b>( article 6-c )</b><br>
+<b>( article 7-c )</b><br>
 Composition
 </p>
 
 Each ethical committee is composed of at most 10 members (angels). Applicants are ranked according to their reputation and by plurinominal consensus. An algorithm that takes advantage of these two factors is required. (elaborate)
 
 <p align="center">
-<b>( article 6-d )</b><br>
+<b>( article 7-d )</b><br>
 Work order
 </p>
 
@@ -399,7 +406,7 @@ I. Angels are allowed to participate in meetings of the related yellow, blue and
 II. Are encouraged to meet regularly and to publish those meetings in a specific view of the on-line platform.
 
 <p align="center">
-<b>( article 7 )</b><br>
+<b>( article 8 )</b><br>
 KREDIT
 </p>
 
@@ -408,14 +415,14 @@ Is the co-founding group of WILLE and a special organ responsible for the guidan
 I. If voter turnout is consistently low in the DAO, then proposals made by the KREDIT are to be approved by adaptative quorom biasing with negative turnout bias. Otherwise by simple majority.
 
 <p align="center">
-<b>( article 7-b )</b><br>
+<b>( article 8-b )</b><br>
 Convocation
 </p>
 
 Videoconferences at least once monthly. These videoconferences are to be made public.
 
 <p align="center">
-<b>( article 7-c )</b><br>
+<b>( article 8-c )</b><br>
 Composition
 </p>
 
@@ -426,14 +433,14 @@ II. KREDIT members are mandated to one year terms.
 III. Plurinomial elections are held annually for the composition of KREDIT.
 
 <p align="center">
-<b>( article 7-d )</b><br>
+<b>( article 8-d )</b><br>
 Work order
 </p>
 
 Provides guidance to the DAO by regularly discussing important events to WILLE. (elaborate)
 
 <p align="center">
-<b>( article 8 )</b><br>
+<b>( article 9 )</b><br>
 Contractors
 </p>
 
@@ -534,7 +541,7 @@ Financing of the activities of the WILLE is made by:
 
 I. Voluntary contributions made in cryptocurrency by anyone to a wallet address.
 
-II. Stakeholders must transfer a minimum and a maximum value of cryptocurrency in order to aquire full membership.
+II. Shareholders must transfer a minimum and a maximum value of cryptocurrency in order to aquire full membership.
 
 <p align="center">
 <b>( article 2-b )</b><br>
