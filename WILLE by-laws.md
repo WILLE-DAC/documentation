@@ -582,3 +582,7 @@ WORK IN PROGRESS
 \[2\] "Remote e-voting overview", 14th International Conference on Theory and Practice of Electronic Governance, 2021. https://www.icegov.org/, https://github.com/partidodigitalpt/documentation/blob/main/Remote%20e-voting%20overview.md
 
 \[3\] "DAO Contributor Agreement", Larry Florio, New York, 2021. https://github.com/LarryFlorio/LegalForms/blob/main/DAO-Contributor-Agmt/DAO%20Contributor%20Agreement.md
+
+## Other
+
+"A Legal Framework for Decentralized Autonomous Organizations" by David Kerr and Miles Jennings, USA, 2021.  https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf
