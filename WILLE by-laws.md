@@ -371,7 +371,7 @@ Videoconferences once weekly to coordinate the workings.
 Angels (ethical committees)
 </p>
 
-Are the organs responsible to evaluate the level of corruption within the DAO. Essentially it attempts to bring to light and resolve internal disputes especially those related to the allocation of resources from WILLE's treasury.
+Are the organs responsible to evaluate the level of corruption within the DAO. Essentially it attempts to bring to light and resolve internal disputes especially those related to the allocation of resources from WILLE's treasury. The first committees are also co-founders to WILLE.
 
 <p align="center">
 <b>( article 6-b )</b><br>
@@ -379,6 +379,8 @@ Convocation
 </p>
 
 For every medium or highly impactful approved proposal, an ethical committee (group of angels) is to be established.
+
+I. Angels can veto proposals made by stakeholders by simple majority consensus.
 
 <p align="center">
 <b>( article 6-c )</b><br>
@@ -532,7 +534,7 @@ Financing of the activities of the WILLE is made by:
 
 I. Voluntary contributions made in cryptocurrency by anyone to a wallet address.
 
-II. Every member of the DAO must contribute with an annual membership due payed in cryptocurrency.
+II. Stakeholders must transfer a minimum and a maximum value of cryptocurrency in order to aquire full membership.
 
 <p align="center">
 <b>( article 2-b )</b><br>
