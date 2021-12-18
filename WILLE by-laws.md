@@ -463,6 +463,12 @@ Medium to high impact proposals should whenever possible be groupedon a quadrati
 
 <p align="center">
 <b>( article 3-g )</b><br>
+Quadratic voting</p>
+
+https://en.wikipedia.org/wiki/Quadratic_voting
+
+<p align="center">
+<b>( article 3-h )</b><br>
 Veto</p>
 
 Angels can veto proposals.
