@@ -165,7 +165,7 @@ VI. In case of expulsion from WILLE a minimum value equivalent to the initial cr
 Bodies
 </p>
 
-There are 8 different bodies that contribute to the normal functioning of the WILLE DAO: shareholders, ambassadors, captains, yellow, blue and red teams, the angels and KREDIT.
+There are 5 different bodies that contribute to the normal functioning of the WILLE DAO: shareholders, ambassadors, captains, the angels and KREDIT.
 
 <p align="center">
 <b>( article 12 )</b><br>
