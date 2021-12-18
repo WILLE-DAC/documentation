@@ -461,6 +461,12 @@ Quadratic funding</p>
 
 Medium to high impact proposals should whenever possible be groupedon a quadratic funding round.
 
+<p align="center">
+<b>( article 3-g )</b><br>
+Veto</p>
+
+Angels can veto proposals.
+
 ## Smart-contracts
 
 <p align="center">
