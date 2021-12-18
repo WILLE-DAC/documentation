@@ -410,7 +410,7 @@ II. Are encouraged to meet regularly and to publish those meetings in a specific
 KREDIT
 </p>
 
-Is the co-founding group of WILLE and a special organ responsible for the guidance of the DAO towards success of its  main mission. KREDIT also curates proposals:
+Is the co-founding group of WILLE along with a co-founding ethical committee (angels). It's a special organ responsible for the guidance of the DAO towards success of its  main mission. KREDIT also curates proposals:
 
 I. If voter turnout is consistently low in the DAO, then proposals made by the KREDIT are to be approved by adaptative quorom biasing with negative turnout bias. Otherwise by simple majority.
 
