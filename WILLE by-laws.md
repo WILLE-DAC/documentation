@@ -344,7 +344,7 @@ KREDIT
 
 Is the co-founding group of WILLE along with a co-founding ethical committee (angels). It's a special organ responsible for the guidance of the DAO towards success of its  main mission. KREDIT also curates proposals:
 
-I. If voter turnout is consistently low in the DAO, then proposals made by the KREDIT are to be approved by adaptative quorom biasing with negative turnout bias. Otherwise by simple majority.
+I. If voter turnout is consistently low in the DAO, then proposals made by the KREDIT are to be approved by adaptive quorom biasing with negative turnout bias. Otherwise by simple majority.
 
 <p align="center">
 <b>( article 7-b )</b><br>
