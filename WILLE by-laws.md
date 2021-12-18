@@ -319,8 +319,6 @@ Convocation
 
 For every medium or highly impactful approved proposal, an ethical committee (group of angels) is to be established.
 
-I. Angels can veto proposals made by shareholders by simple majority consensus.
-
 <p align="center">
 <b>( article 6-c )</b><br>
 Composition
@@ -333,7 +331,7 @@ Each ethical committee is composed of at most 10 members (angels). Applicants ar
 Work order
 </p>
 
-I. Angels are allowed to participate in meetings of the related yellow, blue and red teams.
+I. Can veto proposals made by shareholders by simple majority consensus.
 
 II. Are encouraged to meet regularly and to publish those meetings in a specific view of the on-line platform.
 
