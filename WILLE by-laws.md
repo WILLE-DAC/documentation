@@ -455,7 +455,7 @@ II. Analogously to the previous point, the evaluation period of a proposal can b
 <b>( article 3-f )</b><br>
 Quadratic funding</p>
 
-Medium to high impact proposals should whenever possible be grouped in quadratic funding rounds.
+Proposals are grouped in quadratic funding rounds according to their impact.
 
 <p align="center">
 <b>( article 3-h )</b><br>
