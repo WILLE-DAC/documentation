@@ -523,6 +523,12 @@ I. The KREDIT may, by simple consensus, shorten the evaluation time for a given 
 
 II. Analogously to the previous point, the evaluation period of a proposal can be extended to a maximum of 1 year by the KREDIT with simple majority consensus if it consideres necessary a more thorough study of the socio-economic impacts of the policy proposal or the capacity to execute accordingly is in question.
 
+<p align="center">
+<b>( article 3-f )</b><br>
+Quadratic funding</p>
+
+Medium to high impact proposals should whenever possible be groupedon a quadratic funding round.
+
 ## Smart-contracts
 
 <p align="center">
