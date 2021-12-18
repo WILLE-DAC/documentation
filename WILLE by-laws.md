@@ -342,9 +342,7 @@ II. Are encouraged to meet regularly and to publish those meetings in a specific
 KREDIT
 </p>
 
-Is the co-founding group of WILLE along with a co-founding ethical committee (angels). It's a special organ responsible for the guidance of the DAO towards success of its  main mission. KREDIT also curates proposals:
-
-I. If voter turnout is consistently low in the DAO, then proposals made by the KREDIT are to be approved by adaptive quorom biasing with negative turnout bias. Otherwise by simple majority.
+Is the co-founding group of WILLE along with a co-founding ethical committee (angels). It's a special organ responsible for the guidance of the DAO towards success of its  main mission.
 
 <p align="center">
 <b>( article 7-b )</b><br>
@@ -410,8 +408,6 @@ I. The title must be a short phrase associated with the proposal with a maximum 
 II. The abstract should also briefly explain the subject to which it refers, and consist of between 100 and 300 words.
 
 III. The body, without limitations, must contain the proposal itself as detailed as possible with the appropriate legal terms preferably. Attached to it may be added documents, images, PDF files, etc., other file formats that convey fundamental information to the understanding and elaboration of the proposal at hand.
-
-IV. If vote turnout is consistently low, proposals by members of WILLE with exception to KREDIT should be approved by adaptive quorom biasing with positive turnout bias. Otherwise always by simple majority.
 
 <p align="center">
 <b>( article 3-b )</b><br>
