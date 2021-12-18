@@ -100,7 +100,7 @@ Membership is anonymous.
 Incompatibility regime
 </p>
 
-DAO members may hold no more than one position within the DAO official structures. That is to say that in the event of collusion members have to opt between the role of a shareholder or an angel.
+DAO members may hold no more than one position within the DAO official structures unless stated otherwise.
 
 <p align="center">
 <b>( article 7 )</b><br>
@@ -378,7 +378,7 @@ Videoconferences once weekly to coordinate the workings.
 Angels (ethical committees)
 </p>
 
-Are the organs responsible to evaluate the level of corruption within the DAO. Essentially it attempts to bring to light and resolve internal disputes especially those related to the allocation of resources from WILLE's treasury. The first committees are also co-founders to WILLE.
+Are the organs responsible to evaluate the level of corruption within the DAO. Essentially it attempts to bring to light and resolve internal disputes especially those related to the allocation of resources from WILLE's treasury. The first ethical committees are also co-founders of WILLE along with KREDIT.
 
 <p align="center">
 <b>( article 7-b )</b><br>
