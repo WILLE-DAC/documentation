@@ -451,12 +451,6 @@ II. Analogously to the previous point, the evaluation period of a proposal can b
 
 <p align="center">
 <b>( article 3-f )</b><br>
-Quadratic funding</p>
-
-Proposals are grouped in quadratic funding rounds according to their impact.
-
-<p align="center">
-<b>( article 3-h )</b><br>
 Veto</p>
 
 Angels can veto proposals.
