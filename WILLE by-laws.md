@@ -507,7 +507,7 @@ III. An annual financial report. (elaborate)
 Global constraints
 </p>
 
-In order to prevent 51% attack on the treasury, a maximum budget of $10 000 per proposal and $100 000 per funding round (once a month) is imposed.
+In order to prevent whale takeover a maximum budget of $10 000 per proposal and $100 000 per funding round (once a month) is imposed.
 
 ## Temporary provisions
 
