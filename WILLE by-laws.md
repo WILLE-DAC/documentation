@@ -509,6 +509,12 @@ Global constraints
 
 In order to prevent whale takeover a maximum budget of $10 000 per proposal and $100 000 per funding round (once a month) is imposed.
 
+<p align="center">
+<b>( article 6 )</b><br>
+Dividends</p>
+
+(elaborate)
+
 ## Temporary provisions
 
 TBD
