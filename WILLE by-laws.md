@@ -399,12 +399,10 @@ Angels can veto proposals.
 
 <p align="center">
 <b>( article 5 )</b><br>
-Adaptive quorum biasing
+Negative adaptive quorum biasing
 </p>
 
-I. Positive adaptive quorum biasing (description and when its used)
-
-II. Negative adaptive quorum biasing (description and when its used)
+(elaborate)
 
 ## Smart-contracts
 
