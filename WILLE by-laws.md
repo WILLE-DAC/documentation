@@ -169,7 +169,7 @@ VI. In case of expulsion from WILLE a minimum value equivalent to the initial cr
 Bodies
 </p>
 
-There are 5 different bodies that contribute to the normal functioning of the WILLE DAO: shareholders, ambassadors, captains, the angels and KREDIT.
+There are 3 different bodies that contribute to the normal functioning of the WILLE DAO: shareholders, angels and KREDIT.
 
 <p align="center">
 <b>( article 12 )</b><br>
@@ -255,83 +255,27 @@ Shareholders are all those members of WILLE who invest a minium amount of crypto
 
 <p align="center">
 <b>( article 4 )</b><br>
-Ambassadors
-</p>
-
-In parallel with the classical role that ambassadors play in representing nation states, ambassadors of WILLE are entrusted with the function of representing the DAO in the face of third parties.
-
-I. Are responsable for the onboarding of new members to the DAO. For every successful onboarding a cryptocurrency fee is payed and an increase in the reputation point is given to the ambassador that serviced. This is done with the help of referal passphrases.
-
-II. Are entrusted the mission of being on the ground and to help organize and conduct events that may take place in the name of WILLE, such as hackathons, conferences or other types of official meetings. This services can be recompensated with a transfer of cryptocurrency if there's an approved proposal that considers it necessary and also an increase in reputation as well.
-
-III. Are invited to videoconference with the captains in hopes of exchanging fine tuned information regarding WILLE's membership base in order to better conduct the works.
-
-IV. Ambassadors are further divided by country of origin and regular videoconferencing and meetings between people that share the same geolocation is encouraged.
-
-<p align="center">
-<b>( article 4-b )</b><br>
-Composition
-</p>
-
-I. Any member of WILLE with at least a positive reputation may act as an ambassador in regards to onboard new members to the DAO.
-
-II. To be fully considered an ambassador it is required that at least 5 members have been onboarded. This requirement entitles the ambassadors to participate in meetings with  the captains and to represent WILLE on official events.
-
-<p align="center">
-<b>( article 5 )</b><br>
-Captains
-</p>
-
-Are the backbone of the organization in the sense that only the most meritorious members.
-
-<p align="center">
-<b>( article 5-b )</b><br>
-Convocation
-</p>
-
-Videoconferences at regularly (...)
-
-<p align="center">
-<b>( article 5-c )</b><br>
-Composition
-</p>
-
-I. To be eligible to the role of captainship it is required that the applicants rank the most high in reputation amongst the userbase.
-
-II. Captainship is attributed and locked for minimum period of one year and is only open if it is explicitly required by an approved proposal.
-
-<p align="center">
-<b>( article 5-d )</b><br>
-Work order
-</p>
-
-I. Establish tasks to be executed necessary to the functioning and success of the mission of WILLE.
-
-II. Files a report monthly evaluating the progression of the work.
-
-<p align="center">
-<b>( article 6 )</b><br>
 Angels (ethical committees)
 </p>
 
 Are the organs responsible to evaluate the level of corruption within the DAO. Essentially it attempts to bring to light and resolve internal disputes especially those related to the allocation of resources from WILLE's treasury. The first ethical committees are also co-founders of WILLE along with KREDIT.
 
 <p align="center">
-<b>( article 6-b )</b><br>
+<b>( article 4-b )</b><br>
 Convocation
 </p>
 
 For every medium or highly impactful approved proposal, an ethical committee (group of angels) is to be established.
 
 <p align="center">
-<b>( article 6-c )</b><br>
+<b>( article 4-c )</b><br>
 Composition
 </p>
 
 Each ethical committee is composed of at most 10 members (angels). Applicants are ranked according to their reputation and by plurinominal consensus. An algorithm that takes advantage of these two factors is required. (elaborate)
 
 <p align="center">
-<b>( article 6-d )</b><br>
+<b>( article 4-d )</b><br>
 Work order
 </p>
 
@@ -340,21 +284,21 @@ I. Can veto proposals made by shareholders by simple majority consensus.
 II. Are encouraged to meet regularly and to publish those meetings in a specific view of the on-line platform.
 
 <p align="center">
-<b>( article 7 )</b><br>
+<b>( article 5 )</b><br>
 KREDIT
 </p>
 
 Is the co-founding group of WILLE along with a co-founding ethical committee (angels). It's a special organ responsible for the guidance of the DAO towards success of its  main mission.
 
 <p align="center">
-<b>( article 7-b )</b><br>
+<b>( article 5-b )</b><br>
 Convocation
 </p>
 
 Videoconferences at least once monthly. These videoconferences are to be made public.
 
 <p align="center">
-<b>( article 7-c )</b><br>
+<b>( article 5-c )</b><br>
 Composition
 </p>
 
@@ -365,14 +309,14 @@ II. KREDIT members are mandated to one year terms.
 III. Plurinomial elections are held annually for the composition of KREDIT.
 
 <p align="center">
-<b>( article 7-d )</b><br>
+<b>( article 5-d )</b><br>
 Work order
 </p>
 
 Provides guidance to the DAO by regularly discussing important events to WILLE. (elaborate)
 
 <p align="center">
-<b>( article 8 )</b><br>
+<b>( article 6 )</b><br>
 Contractors
 </p>
 
