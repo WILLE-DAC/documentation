@@ -260,9 +260,11 @@ II. Are encouraged to meet regularly and to publish those meetings in a specific
 KREDIT
 </p>
 
-Is the co-founding group of WILLE along with a co-founding ethical committee (angels). It's a special organ responsible for the guidance of the DAO towards success of its  main mission. Can participate in DAOs governance by publishing proposals.
+Is the co-founding group of WILLE along with a co-founding ethical committee (angels). It's a special organ responsible for the guidance of the DAO towards success of its  main mission.
 
-I.  If overall voter turnout whithin WILLE is consistently low, then proposals put forward by KREDIT get approved by negative adaptive quorum biasing. Otherwise proposals and votes from KREDIT are decided with simple consensus.
+I.  Can participate in DAOs governance by publishing proposals. If overall voter turnout whithin WILLE is consistently low, then proposals put forward by KREDIT get approved by negative adaptive quorum biasing. Otherwise proposals and votes from KREDIT are decided with simple consensus.
+
+II. Participates in quadratic funding rounds together with angels.
 
 <p align="center">
 <b>( article 4-b )</b><br>
