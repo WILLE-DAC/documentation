@@ -254,8 +254,15 @@ Shareholders
 Shareholders are all those members of WILLE who invest a minium amount of cryptocurrency to the treasury.
 
 <p align="center">
+<b>( article 3-b )</b><br>
+Work order
+</p>
+
+Can publish and vote on proposals.
+
+<p align="center">
 <b>( article 4 )</b><br>
-Angels (ethical committees)
+Angels
 </p>
 
 Are the organs responsible to evaluate the level of corruption within the DAO. Essentially it attempts to bring to light and resolve internal disputes especially those related to the allocation of resources from WILLE's treasury. The first ethical committees are also co-founders of WILLE along with KREDIT.
@@ -265,7 +272,7 @@ Are the organs responsible to evaluate the level of corruption within the DAO. E
 Convocation
 </p>
 
-For every medium or highly impactful approved proposal, an ethical committee (group of angels) is to be established.
+For every approved proposal an ethical committee (group of angels) is to be established.
 
 <p align="center">
 <b>( article 4-c )</b><br>
@@ -355,24 +362,13 @@ III. The body, without limitations, must contain the proposal itself as detailed
 
 <p align="center">
 <b>( article 3-b )</b><br>
-Rate of approval
-</p>
-
-Through the on-line platform on the forum view members of the DAO can express and register in an encrypted distributed and signed digital database if they approve or reject a proposal or amendment of an existing policy put forward by other members.
-
-I. We define local rate of approval as the reason between the  approvals for a given policy and the total number of users that share the same nationality.
-
-II. The global rate of approval is a numerical variable calculated by the reason between the number of approvals and the total number of members of the DAO.
-
-<p align="center">
-<b>( article 3-c )</b><br>
 Urgency
 </p>
 
 Parallel to the indicator defined above, DAO members are invited to classify a given policy according to how urgent they consider it to be; irrelevant, of little importance, useful, important and urgent.
 
 <p align="center">
-<b>( article 3-d )</b><br>
+<b>( article 3-c )</b><br>
 Impact
 </p>
 
@@ -385,7 +381,7 @@ III. Medium-impact proposals are those whose financing costs are greater than 1/
 IV. High-impact proposals are considered to be all whose financing is greater than 1/1000?th of the WILLE's treasury or whose priority is considered urgent.
 
 <p align="center">
-<b>( article 3-e )</b><br>
+<b>( article 3-d )</b><br>
 Evaluation period
 </p>
 
@@ -396,10 +392,17 @@ I. The KREDIT may, by simple consensus, shorten the evaluation time for a given 
 II. Analogously to the previous point, the evaluation period of a proposal can be extended to a maximum of 1 year by the KREDIT with simple majority consensus if it consideres necessary a more thorough study of the socio-economic impacts of the policy proposal or the capacity to execute accordingly is in question.
 
 <p align="center">
-<b>( article 3-f )</b><br>
+<b>( article 4 )</b><br>
 Veto</p>
 
 Angels can veto proposals.
+
+( article 5 )
+Adaptive quorum biasing
+
+I. Positive adaptive quorum biasing (description and when its used)
+
+II. Negative adaptive quorum biasing (description and when its used)
 
 ## Smart-contracts
 
