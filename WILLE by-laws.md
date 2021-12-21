@@ -173,10 +173,10 @@ There are 3 different bodies that contribute to the normal functioning of the WI
 
 <p align="center">
 <b>( article 12 )</b><br>
-Headquarter
+Head office
 </p>
 
-HQ is the space for meetups and where KREDIT operates.
+Is the space for meetups and where KREDIT operates.
 
 I. The choice for the location of these spaces must be made through democratic consensus on the on-line platform.
 
@@ -189,7 +189,7 @@ Management of the DAO’s official mail and e-mails is done by KREDIT.
 
 I. The official URL for the website of the DAO is URL. The IPFS hash entrypoint to the website is HASH.
 
-II. The official mail addresses for the DAO are the corresponding addresses of the headquarters if any.
+II. The official mail addresses for the DAO are the corresponding addresses of the head office.
 
 <p align="center">
 <b>( article 13-b )</b><br>
@@ -310,7 +310,7 @@ All internal decision-making from the choice of members that participate in the 
 Events
 </p>
 
-The announcement of the venue and the sending of invitations for the participation on all WILLE’s activities is done automatically by the on-line platform with extra contacts to be made by mail and e-mail (from the WILLE’s headquarter official addresses to the member’s official contacts whenever possible).
+The announcement of the venue and the sending of invitations for the participation on all WILLE’s activities is done automatically by the on-line platform with extra contacts to be made by mail and e-mail (from the WILLE’s head office official addresses to the member’s official contacts whenever possible).
 
 <p align="center">
 <b>( article 3 )</b><br>
