@@ -187,7 +187,7 @@ II. The choice for the location of these spaces must be made through democratic 
 Contacts
 </p>
 
-Management of the DAO’s official e-mails is done by a special group from amongst the angels. Management of the mails is done by the entrusted members appointed in point I of the previous article.
+Management of the DAO’s official mail and e-mails is done by KREDIT.
 
 I. The official URL for the website of the DAO is URL. The IPFS hash entrypoint to the website is HASH.
 
