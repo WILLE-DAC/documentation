@@ -244,7 +244,7 @@ For every approved proposal an ethical committee (group of angels) is to be esta
 Composition
 </p>
 
-Each ethical committee is composed of at most 10 members (angels). Applicants are ranked according to their reputation and by plurinominal consensus. An algorithm that takes advantage of these two factors is required. (elaborate)
+Each ethical committee is composed of at most 10 members (angels). (ellaborate)
 
 <p align="center">
 <b>( article 3-d )</b><br>
