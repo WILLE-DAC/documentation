@@ -173,14 +173,12 @@ There are 3 different bodies that contribute to the normal functioning of the WI
 
 <p align="center">
 <b>( article 12 )</b><br>
-Headquarters
+Headquarter
 </p>
 
-HQs are spaces for meetups and where members of the DAO can gather and collaborate together. Although not a necessity we consider their existence advantagious.
+HQ is the space for meetups and where KREDIT operates.
 
-I. Headquarters need to be accessible to DAO members and have appropriate maintenance. At least one member must be appointed to this end through democratic consenus.
-
-II. The choice for the location of these spaces must be made through democratic consensus on the on-line platform.
+I. The choice for the location of these spaces must be made through democratic consensus on the on-line platform.
 
 <p align="center">
 <b>( article 13 )</b><br>
@@ -345,7 +343,7 @@ All internal decision-making from the choice of members that participate in the 
 Events
 </p>
 
-The announcement of the venue and the sending of invitations for the participation on all WILLE’s activities is done automatically by the on-line platform with extra contacts to be made by mail and e-mail (from the WILLE’s headquarters official addresses to the member’s official contacts whenever possible).
+The announcement of the venue and the sending of invitations for the participation on all WILLE’s activities is done automatically by the on-line platform with extra contacts to be made by mail and e-mail (from the WILLE’s headquarter official addresses to the member’s official contacts whenever possible).
 
 <p align="center">
 <b>( article 3 )</b><br>
