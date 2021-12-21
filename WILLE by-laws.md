@@ -397,8 +397,10 @@ Veto</p>
 
 Angels can veto proposals.
 
-( article 5 )
+<p align="center">
+<b>( article 5 )</b><br>
 Adaptive quorum biasing
+</p>
 
 I. Positive adaptive quorum biasing (description and when its used)
 
