@@ -213,74 +213,41 @@ This chapter explains the objective for which each of the DAO’s bodies were th
 
 <p align="center">
 <b>( article 2 )</b><br>
-Moderator
-</p>
-
-The moderator is summoned whenever there is a meeting during DAO’s activities where there are at most 10 people participating and its mission is to mediate the dialogue. The moderator is elected at least a week prior to the meeting by plurinominal consensus between the participants of the meeting through the on-line platform.
-
-I. Introduces the main topics for discussion. The choice of the topics to be discussed is done automatically by an algorithm on the on-line platform and in accordance to the DAO’s by-laws. (elaborate)
-
-II. Manages the intervention time during the meetings guaranteeing equal opportunity of participation.
-
-<p align="center">
-<b>( article 2-b )</b><br>
-Board
-</p>
-
-The board takes the role of the moderator for debates with more than 10 participants or in situations where the meeting is expected to become too technical or too long. The choice for the board is made through plurinominal consensus between the participants of the meeting on the on-line platform at least 1 week prior to the meeting and is composed of up to 10 members.
-
-<p align="center">
-<b>( article 2-c )</b><br>
-Secretary
-</p>
-
-The secretary is summoned whenever there’s a meeting during any of WILLE’s activities and has the function of registering the event.
-
-I. The choice of the secretary is made by plurinominal consensus at least 1 week prior to the meeting (videoconferencing or in-presence).
-
-II. Draws up a document that summarizes the main points that have emerged from the meeting. The document must be ratified by those present.
-
-III. Responsible for recording the debate in video format and uploading it to the on-line platform.
-
-IV. The secretary can use the on-line platform to probe the opinions of the party members spectating the debates on any question that is raised during the discussion. However the results from these live referendums are not to be counted as votes on any particular matter.
-
-<p align="center">
-<b>( article 3 )</b><br>
 Shareholders
 </p>
 
 Shareholders are all those members of WILLE who invest a minium amount of cryptocurrency to the treasury.
 
 <p align="center">
-<b>( article 3-b )</b><br>
+<b>( article 2-b )</b><br>
 Work order
 </p>
 
 Can publish and vote on proposals.
 
 <p align="center">
-<b>( article 4 )</b><br>
+<b>( article 3 )</b><br>
 Angels
 </p>
 
 Are the organs responsible to evaluate the level of corruption within the DAO. Essentially it attempts to bring to light and resolve internal disputes especially those related to the allocation of resources from WILLE's treasury. The first ethical committees are also co-founders of WILLE along with KREDIT.
 
 <p align="center">
-<b>( article 4-b )</b><br>
+<b>( article 3-b )</b><br>
 Convocation
 </p>
 
 For every approved proposal an ethical committee (group of angels) is to be established.
 
 <p align="center">
-<b>( article 4-c )</b><br>
+<b>( article 3-c )</b><br>
 Composition
 </p>
 
 Each ethical committee is composed of at most 10 members (angels). Applicants are ranked according to their reputation and by plurinominal consensus. An algorithm that takes advantage of these two factors is required. (elaborate)
 
 <p align="center">
-<b>( article 4-d )</b><br>
+<b>( article 3-d )</b><br>
 Work order
 </p>
 
@@ -289,7 +256,7 @@ I. Can veto proposals made by shareholders by simple majority consensus.
 II. Are encouraged to meet regularly and to publish those meetings in a specific view of the on-line platform.
 
 <p align="center">
-<b>( article 5 )</b><br>
+<b>( article 4 )</b><br>
 KREDIT
 </p>
 
@@ -298,28 +265,28 @@ Is the co-founding group of WILLE along with a co-founding ethical committee (an
 I.  If overall voter turnout whithin WILLE is consistently low, then proposals put forward by KREDIT get approved by negative adaptive quorum biasing. Otherwise proposals and votes from KREDIT are decided with simple consensus.
 
 <p align="center">
-<b>( article 5-b )</b><br>
+<b>( article 4-b )</b><br>
 Convocation
 </p>
 
 Videoconferences at least once monthly. These videoconferences are to be made public.
 
 <p align="center">
-<b>( article 5-c )</b><br>
+<b>( article 4-c )</b><br>
 Composition
 </p>
 
 Initially, KREDIT's composed of the founding members of the WILLE DAO. At any time KREDIT can consensually invite or kick members from its composition.
 
 <p align="center">
-<b>( article 5-d )</b><br>
+<b>( article 4-d )</b><br>
 Work order
 </p>
 
 Provides guidance to the DAO by regularly discussing important events to WILLE. (elaborate)
 
 <p align="center">
-<b>( article 6 )</b><br>
+<b>( article 5 )</b><br>
 Contractors
 </p>
 
