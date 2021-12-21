@@ -325,9 +325,9 @@ II. The abstract should also briefly explain the subject to which it refers, and
 
 III. The body, without limitations, must contain the proposal itself as detailed as possible with the appropriate legal terms preferably. Attached to it may be added documents, images, PDF files, etc., other file formats that convey fundamental information to the understanding and elaboration of the proposal at hand.
 
-IV. 9% of the treasury is to be reserved to quadratic funding rounds voted exclusively by angels and KREDIT.
+IV. 30% of the treasury is to be reserved to quadratic funding rounds voted exclusively by angels and KREDIT.
 
-V. 90% of the treasury is to be governed by democratic consensus between all members of the DAO with each vote weighting proportionally to the stake.
+V. 70% of the treasury is to be governed by democratic consensus between all members of the DAO with each vote weighting proportionally to the stake.
 
 <p align="center">
 <b>( article 3-b )</b><br>
