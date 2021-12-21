@@ -257,7 +257,7 @@ I. Can veto proposals made by shareholders by simple majority consensus.
 
 II. Are encouraged to meet regularly and to publish those meetings in a specific view of the on-line platform.
 
-III. Participates in quadratic funding rounds together with angels.
+III. Participates in quadratic funding rounds together with KREDIT.
 
 <p align="center">
 <b>( article 4 )</b><br>
