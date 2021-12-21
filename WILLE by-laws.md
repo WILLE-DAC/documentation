@@ -370,14 +370,18 @@ II. Analogously to the previous point, the evaluation period of a proposal can b
 <b>( article 4 )</b><br>
 Veto</p>
 
-Angels can veto proposals.
+As stipulated before:
+
+I. Angels can veto proposals by shareholders.
+
+II. Shareholders can veto quadratic funding rounds held by angels and KREDIT.
 
 <p align="center">
 <b>( article 5 )</b><br>
 Negative adaptive quorum biasing
 </p>
 
-(elaborate)
+"A referendum can be either simple majority-carries in which 50%+1 of the votes decide the outcome or adaptive quorum biased. Adaptive quorum biasing makes the threshold for passing or rejecting a referendum higher or lower depending on how the referendum was originally proposed. Negative turnout bias makes a referendum require a super-majority to reject that decreases as turnout increases. Another way to think about the quorum biasing is that positive bias referendums will be rejected by default and negative bias referendums get passed by default."
 
 <p align="center">
 <b>( article 6 )</b><br>
