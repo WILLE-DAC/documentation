@@ -288,7 +288,9 @@ II. Are encouraged to meet regularly and to publish those meetings in a specific
 KREDIT
 </p>
 
-Is the co-founding group of WILLE along with a co-founding ethical committee (angels). It's a special organ responsible for the guidance of the DAO towards success of its  main mission.
+Is the co-founding group of WILLE along with a co-founding ethical committee (angels). It's a special organ responsible for the guidance of the DAO towards success of its  main mission. Can participate in DAOs governance by publishing proposals.
+
+I.  If overall voter turnout whithin WILLE is consistently low, then proposals put forward by KREDIT get approved by negative adaptive quorum biasing. Otherwise proposals and votes from KREDIT are decided with simple consensus.
 
 <p align="center">
 <b>( article 5-b )</b><br>
@@ -302,11 +304,7 @@ Videoconferences at least once monthly. These videoconferences are to be made pu
 Composition
 </p>
 
-I. Initially, KREDIT's composed of the founding members of the DAO.
-
-II. KREDIT members are mandated to one year terms.
-
-III. Plurinomial elections are held annually for the composition of KREDIT.
+Initially, KREDIT's composed of the founding members of the WILLE DAO. At any time KREDIT can consensually invite or kick members from its composition.
 
 <p align="center">
 <b>( article 5-d )</b><br>
