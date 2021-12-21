@@ -223,7 +223,9 @@ Shareholders are all those members of WILLE who invest a minium amount of crypto
 Work order
 </p>
 
-Can publish and vote on proposals.
+I. Can publish and vote on proposals.
+
+II. Can veto but cannot vote on quadratic funding rounds held between angels and KREDIT.
 
 <p align="center">
 <b>( article 3 )</b><br>
