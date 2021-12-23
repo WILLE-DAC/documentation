@@ -225,7 +225,7 @@ Work order
 
 I. Can publish and vote on proposals.
 
-II. Can veto but cannot vote on quadratic funding rounds held between angels and KREDIT.
+II. Can veto but cannot vote on funding rounds held between angels and KREDIT.
 
 <p align="center">
 <b>( article 3 )</b><br>
@@ -257,7 +257,7 @@ I. Can veto proposals made by shareholders by simple majority consensus.
 
 II. Are encouraged to meet regularly and to publish those meetings in a specific view of the on-line platform.
 
-III. Participates in quadratic funding rounds together with KREDIT.
+III. Participates in funding rounds together with KREDIT.
 
 <p align="center">
 <b>( article 4 )</b><br>
@@ -268,7 +268,7 @@ Is the co-founding group of WILLE along with a co-founding ethical committee (an
 
 I.  Can participate in DAOs governance by publishing proposals. If overall voter turnout whithin WILLE is consistently low, then proposals put forward by KREDIT get approved by negative adaptive quorum biasing. Otherwise proposals and votes from KREDIT are decided with simple consensus.
 
-II. Participates in quadratic funding rounds together with angels.
+II. Participates in funding rounds together with angels.
 
 <p align="center">
 <b>( article 4-b )</b><br>
@@ -331,7 +331,7 @@ II. The abstract should also briefly explain the subject to which it refers, and
 
 III. The body, without limitations, must contain the proposal itself as detailed as possible with the appropriate legal terms preferably. Attached to it may be added documents, images, PDF files, etc., other file formats that convey fundamental information to the understanding and elaboration of the proposal at hand.
 
-IV. 30% of the treasury is to be reserved to quadratic funding rounds approved exclusively by angels and KREDIT but which can be vetoed by shareholders.
+IV. 30% of the treasury is to be reserved to funding rounds approved exclusively by angels and KREDIT but which can be vetoed by shareholders.
 
 V. 70% of the treasury is to be governed by democratic consensus between all members of the DAO with each vote weighting proportionally to the stake invested.
 
@@ -374,7 +374,7 @@ As stipulated before:
 
 I. Angels can veto proposals by shareholders.
 
-II. Shareholders can veto quadratic funding rounds held by angels and KREDIT.
+II. Shareholders can veto funding rounds held by angels and KREDIT.
 
 <p align="center">
 <b>( article 5 )</b><br>
@@ -382,13 +382,6 @@ Negative adaptive quorum biasing
 </p>
 
 "A referendum can be either simple majority-carries in which 50%+1 of the votes decide the outcome or adaptive quorum biased. Adaptive quorum biasing makes the threshold for passing or rejecting a referendum higher or lower depending on how the referendum was originally proposed. Negative turnout bias makes a referendum require a super-majority to reject that decreases as turnout increases. Another way to think about the quorum biasing is that positive bias referendums will be rejected by default and negative bias referendums get passed by default."
-
-<p align="center">
-<b>( article 6 )</b><br>
-Quadratic funding
-</p>
-
-(elaborate)
 
 ## Smart-contracts
 
