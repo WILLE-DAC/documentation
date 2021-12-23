@@ -257,7 +257,7 @@ I. Can veto proposals made by shareholders by simple majority consensus.
 
 II. Are encouraged to meet regularly and to publish those meetings in a specific view of the on-line platform.
 
-III. Participates in funding rounds together with KREDIT.
+III. Proposes funding rounds together with KREDIT which account for 30% of the treasury.
 
 <p align="center">
 <b>( article 4 )</b><br>
