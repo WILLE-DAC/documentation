@@ -93,7 +93,7 @@ I. Adherence to or withdrawal from the DAO is made exclusively through the on-li
 Anonymity
 </p>
 
-1. Stakeholders identity is conceiled; stakeholders can publish and vote on proposals, invest and withdraw cryptocurrency without disclosing real identity.
+1. Shareholders identity is conceiled; shareholders can publish and vote on proposals, invest and withdraw cryptocurrency without disclosing real identity.
 
 2. Angels need to proove their previous membership as angels within NERV sister DAO but need not disclose their real identity.
 
