@@ -35,10 +35,10 @@ This DAC is named WILLE inspired by a popular anime series and which stands in G
 
 <p align="center">
 <b>( article 3 )</b><br>
-Recognition of the Model Law for Decentralized Autonomous Organizations (DACs) by the Coalition of Automated Legal Applications
+Recognition of the Model Law for Decentralized Autonomous Organizations (DAOs) by the Coalition of Automated Legal Applications
 </p>
 
-Considering that at the moment of publication, there is a legal vacuum as regards to how DACs should be framed in the legal context, worldwide, WILLE endorses the adoption of the Model Law for DACs<sup>[1](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAC-Model-Law.pdf)</sup> written by the COALA organization.
+Considering that at the moment of publication, there is a legal vacuum as regards to how DAOs (which DACs are a subset  of) should be framed in the legal context, worldwide, WILLE endorses the adoption of the Model Law for DAOs<sup>[1](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAC-Model-Law.pdf)</sup> written by the COALA organization.
 
 <p align="center">
 <b>( article 4 )</b><br>
