@@ -333,7 +333,7 @@ III. The body, without limitations, must contain the proposal itself as detailed
 
 IV. 30% of the treasury is to be reserved to quadratic funding rounds approved exclusively by angels and KREDIT but which can be vetoed by shareholders.
 
-V. 70% of the treasury is to be governed by democratic consensus between all members of the DAO with each vote weighting proportionally to the stake.
+V. 70% of the treasury is to be governed by democratic consensus between all members of the DAO with each vote weighting proportionally to the stake invested.
 
 <p align="center">
 <b>( article 3-b )</b><br>
